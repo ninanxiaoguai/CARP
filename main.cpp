@@ -248,8 +248,8 @@ string solution_to_string(individual a) {
 int main(void)
 
 {
-	int Run = 30;
-	int function_num = 80;
+	int Run = 1;
+	int function_num = 1;
 	for (int num_f = 0; num_f < function_num; num_f++)
 	{
 		change_m = popsize; // 聚类中最大的个数
